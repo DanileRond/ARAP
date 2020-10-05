@@ -1,2 +1,2 @@
 # ARAP
-Reinforcement Learning and Deep Learning Subject LAB
+Reinforcement Learning and Deep Learning LAB
