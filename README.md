@@ -1,4 +1,4 @@
-# ARAP
+# Deep and Reinforcement Learning UPC
 Reinforcement Learning and Deep Learning LAB
 
 
